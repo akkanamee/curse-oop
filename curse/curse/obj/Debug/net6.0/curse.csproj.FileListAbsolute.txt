@@ -1,0 +1,45 @@
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\bin\Debug\net6.0\curse.exe
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\bin\Debug\net6.0\curse.deps.json
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\bin\Debug\net6.0\curse.runtimeconfig.json
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\bin\Debug\net6.0\curse.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\bin\Debug\net6.0\ref\curse.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\bin\Debug\net6.0\curse.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\obj\Debug\net6.0\curse.csproj.AssemblyReference.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\obj\Debug\net6.0\curse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\obj\Debug\net6.0\curse.AssemblyInfoInputs.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\obj\Debug\net6.0\curse.AssemblyInfo.cs
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\obj\Debug\net6.0\curse.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\obj\Debug\net6.0\curse.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\obj\Debug\net6.0\ref\curse.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\obj\Debug\net6.0\curse.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\curse\curse\obj\Debug\net6.0\curse.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\curse\curse\bin\Debug\net6.0\curse.exe
+C:\Users\Vlad\Desktop\curse\curse\bin\Debug\net6.0\curse.deps.json
+C:\Users\Vlad\Desktop\curse\curse\bin\Debug\net6.0\curse.runtimeconfig.json
+C:\Users\Vlad\Desktop\curse\curse\bin\Debug\net6.0\curse.dll
+C:\Users\Vlad\Desktop\curse\curse\bin\Debug\net6.0\ref\curse.dll
+C:\Users\Vlad\Desktop\curse\curse\bin\Debug\net6.0\curse.pdb
+C:\Users\Vlad\Desktop\curse\curse\obj\Debug\net6.0\curse.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\curse\curse\obj\Debug\net6.0\curse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\curse\curse\obj\Debug\net6.0\curse.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\curse\curse\obj\Debug\net6.0\curse.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\curse\curse\obj\Debug\net6.0\curse.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\curse\curse\obj\Debug\net6.0\curse.dll
+C:\Users\Vlad\Desktop\curse\curse\obj\Debug\net6.0\ref\curse.dll
+C:\Users\Vlad\Desktop\curse\curse\obj\Debug\net6.0\curse.pdb
+C:\Users\Vlad\Desktop\curse\curse\obj\Debug\net6.0\curse.genruntimeconfig.cache
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\bin\Debug\net6.0\curse.exe
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\bin\Debug\net6.0\curse.deps.json
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\bin\Debug\net6.0\curse.runtimeconfig.json
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\bin\Debug\net6.0\curse.dll
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\bin\Debug\net6.0\curse.pdb
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\obj\Debug\net6.0\curse.csproj.AssemblyReference.cache
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\obj\Debug\net6.0\curse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\obj\Debug\net6.0\curse.AssemblyInfoInputs.cache
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\obj\Debug\net6.0\curse.AssemblyInfo.cs
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\obj\Debug\net6.0\curse.csproj.CoreCompileInputs.cache
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\obj\Debug\net6.0\curse.dll
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\obj\Debug\net6.0\refint\curse.dll
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\obj\Debug\net6.0\curse.pdb
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\obj\Debug\net6.0\curse.genruntimeconfig.cache
+C:\Users\Akkanamee\Desktop\curse1\curse\curse\obj\Debug\net6.0\ref\curse.dll

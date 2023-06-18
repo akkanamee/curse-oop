@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21fd43f5-c34a-4710-b57c-198ebf46ca17": {
+      "ProjectGuid": "21fd43f5-c34a-4710-b57c-198ebf46ca17",
+      "DisplayName": "curse",
+      "ColorIndex": 0
+    },
+    "0950186e-514d-40ca-a6dd-1f1d369dbab5": {
+      "ProjectGuid": "0950186e-514d-40ca-a6dd-1f1d369dbab5",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
